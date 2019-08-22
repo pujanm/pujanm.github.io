@@ -3,6 +3,7 @@ layout: post
 title: Google Summer of Code 2019 - Application experience
 image: /img/gsoc_logo.png
 tags: [GSoC, CERN, Python, Coding]
+author: Pujan Mehta
 ---
 
 I am dividing my application experience into a number of steps and I have tried my best to provide as many as tips as possible for getting into this programme.
