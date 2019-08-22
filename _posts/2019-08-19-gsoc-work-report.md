@@ -19,7 +19,7 @@ This was my first contribution to DIRAC and the Pull Request on this can be foun
 
 **2) Wrote Technical documentation on the gMonitor object:** <br>
 In this task, I had to write technical documentation on **DIRAC's gMonitor** object which uses **Round Robin Database** tool to monitor activities of various components within DIRAC.
-The work on this can be found in these **[commits](https://github.com/DIRACGrid/DIRAC/pull/4120/commits/6564f40ac953dc451066b7c01cf304952af5ea6e)** inside this [Pull Request](https://github.com/DIRACGrid/DIRAC/pull/4120) which is yet to be merged.
+The work on this can be found in these **[commits](https://github.com/DIRACGrid/DIRAC/pull/4120/commits/6564f40ac953dc451066b7c01cf304952af5ea6e)** inside this [Pull Request](https://github.com/DIRACGrid/DIRAC/pull/4120) which is has been merged.
 
 **3) Added ElasticSearch support to DIRAC's Service component:** <br>
 Starting with this task, I had to extend an existing ElasticSearch type named `ComponentMonitoring` which had few fields already being monitored so based on studying DIRAC's Service component I extended this type and added new key fields and monitoring fields.
