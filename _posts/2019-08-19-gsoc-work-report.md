@@ -54,7 +54,11 @@ A sample monitoring plot after migration to ElasticSearch:<br>
 Some work on this is in progress and all the work till now can be found in this [Pull Request](https://github.com/DIRACGrid/DIRAC/pull/4209).
 <br>
 
-Summarising things, all the major work I did during the GSoC 2019 period can be found in these two Pull Requests: [PR1](https://github.com/DIRACGrid/DIRAC/pull/4120) and [PR2](https://github.com/DIRACGrid/DIRAC/pull/4209).<br>
+Summarising things, all my work at `DIRAC` can be found in these PRs:<br>
+1) Adds `Docker-Compose` setup for development purpose [#4085](https://github.com/DIRACGrid/DIRAC/pull/4085). <br>
+2) Adds ES monitoring support to `services and agents` [#4120](https://github.com/DIRACGrid/DIRAC/pull/4120). <br>
+3) Makes the `MonitoringReporter` thread safe [#4194](https://github.com/DIRACGrid/DIRAC/pull/4194). <br>
+4) Adds ES monitoring support to `RequestManagementSystem and DataManagementSystem/Agent/RequestOperations` [#4209](https://github.com/DIRACGrid/DIRAC/pull/4209). [Yet to be merged]<br>
 
 Lastly, I would like to thank my mentors **Christophe Haen**, **Zoltan Mathe**, and **Federico Stagni** for their constant support, inputs, and help throughout the period. I got to learn a lot of things from them and they also helped me highlight my weaknesses and mistakes I made during the period.
 Overall, it was a very good experience working on **The DIRAC project** and I even look forward to contribute to DIRAC after the GSoC period ends.
