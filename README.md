@@ -1,1 +1,1 @@
-## My Portfolio
+## My Blog and Portfolio
