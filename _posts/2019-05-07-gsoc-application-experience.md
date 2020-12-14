@@ -9,7 +9,7 @@ author: Pujan Mehta
 I am dividing my application experience into a number of steps and I have tried my best to provide as many as tips as possible for getting into this programme.
 
 ## 1) Finding the correct organization <br>
-This was the most important part (obviously). First thing I decided was to find a project which I felt was in my standards, so I had started searching for organizations before their names were announced officially on **Google Search** and **GitHub** and found many of them who were coming (new ones) and some which were there from quite a long time and were coming again. Then while searching for projects I found this GitHub repo very useful for understanding the criteria of different organizations and what all is required to apply there and tech-stack involved in those orgs.
+This was the most important part (obviously). First thing I decided was to find a project which I felt was in my standards, so I had started searching for organizations before their names were announced officially on **Google Search** and **GitHub** and found many of them who were coming (new ones) and some which were there from quite a long time and were coming again. Then while searching for projects I found [this](https://github.com/chengluyu/gsoc-catalogue) GitHub repo very useful for understanding the criteria of different organizations and what all is required to apply there and tech-stack involved in those orgs.
 
 Then I came across **CERN-HSF** and found that they had an assessment test and based on the performance they help you further in building the proposal.
 So basically it was an umbrella org. meaning it had many organizations within itself which was quite a lot like another GSoC site with a list of organizations in itself.
